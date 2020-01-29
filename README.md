@@ -1,2 +1,2 @@
 # libredblack
-supporting library for netconf toolset
+Copy of RedBlack Balanced Tree Searching and Sorting Library - http://libredblack.sourceforge.net/
